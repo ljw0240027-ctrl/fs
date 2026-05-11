@@ -1,0 +1,5 @@
+pyyaml
+pandas
+jinja2
+openpyxl
+pytest

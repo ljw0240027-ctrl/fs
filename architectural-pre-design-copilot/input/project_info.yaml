@@ -1,0 +1,33 @@
+project_name: "Sample Mixed-use Project"
+site_location: "Seoul, Korea"
+site_area_m2: 8500
+zoning: "General Commercial"
+building_coverage_ratio: 60
+floor_area_ratio: 550
+max_height_m: 120
+floor_height_m: 4.2
+target_use: "Mixed-use (Office + Retail)"
+target_programs:
+  - name: "Office"
+    ratio: 65
+  - name: "Retail"
+    ratio: 25
+  - name: "Community"
+    ratio: 10
+site_context:
+  strengths:
+    - "Subway station within 300m"
+    - "Corner lot with high visibility"
+  weaknesses:
+    - "High noise from main boulevard"
+    - "Narrow side street access"
+  opportunities:
+    - "Potential public plaza linkage"
+    - "High pedestrian flow"
+  threats:
+    - "Competing mixed-use developments nearby"
+client_requests:
+  - "Iconic facade with strong identity"
+  - "Efficient office floor plates"
+  - "Retail activation at ground level"
+report_target: "Executive board"
